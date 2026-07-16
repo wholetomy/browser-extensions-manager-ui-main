@@ -49,7 +49,7 @@ Link: https://wholetomy.github.io/browser-extensions-manager-ui-main/
 ```bash
 git clone https://github.com/wholetomy/browser-extensions-manager-ui-main
 
-cd projeto
+cd browser-extensions-manager-ui-main
 
 npm install
 
